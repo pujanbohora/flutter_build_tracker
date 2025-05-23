@@ -1,0 +1,19 @@
+name: flutter_build_tracker
+description: A Flutter package to track widget build counts and times for performance optimization and debugging.
+version: 0.1.0
+homepage: https://github.com/pujanBohora/flutter_build_tracker
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
